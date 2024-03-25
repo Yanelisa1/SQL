@@ -12,3 +12,5 @@ The ORDER BY clause is used to sort the result set returned by a SELECT statemen
 Finding More Data It is not just about matching records.Functions like LENGTH give us insights into field sizes. DISTINCT helps find unique values, and COUNT tallies records matching specific criteria.
 
 MODULE1: Data Types And Arithmetic Operators
+
+SQL Data Types
