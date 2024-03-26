@@ -30,6 +30,14 @@ Removing Table Data to remove data from a table, the DELETE statement is used.Li
 WEEK
 MODULE2: INTRODUCTION TO MONGODB
 
+MongoDB is a popular, open-source, NoSQL database management system that uses a document-oriented data model. Developed by MongoDB Inc., it falls under the category of NoSQL databases, which means it doesn't use the traditional relational database structures found in SQL databases like MySQL.
+Relational DB vs MongoDB
+Relational Databases exemplified by Oracle, Microsoft SQL Server, and MySQL,organize data into tables, with rows and columns often interconnected.
+MongoDB, a NoSQL database uses diverse methods, such as JavaScript or HTTP, to query data. MongoDB's flexible document store is a key feature, where data is stored in documents rather than tables.MongoDB's advantages include a schema-less storage format, rapid speed, and straightforward scalability. Despite these benefits, there are also drawbacks.
+
+DOCUMENTS AND COLLECTIONS
+Creating a document
+
 
 
 
